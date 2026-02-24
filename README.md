@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
 <p align="center">
-Web Application Engineer building modern web applications enhanced with AI-driven workflows.
+Web Application Engineer focused on building scalable, production-ready web platforms enhanced with AI and LLM workflows.
 </p>
 
 <p align="center">
