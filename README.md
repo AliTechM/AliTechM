@@ -72,6 +72,10 @@ AI-powered web application that analyzes resumes against job descriptions and ge
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
 </a>
 
+<a href="mailto:ali85.tech@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge">
+</a>
+
 </p>
 
 ---
