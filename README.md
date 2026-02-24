@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Ali 👋</h1>
 
 <p align="center">
-AI-Driven Full Stack Engineer building intelligent web applications powered by LLM workflows.
+Web Application Engineer building modern web applications enhanced with AI-driven workflows.
 </p>
 
 <p align="center">
 
-![Role](https://img.shields.io/badge/Role-AI%20Full--Stack%20Engineer-blue)
-![Frontend](https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20TypeScript-black)
-![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20REST%20APIs-green)
-![AI](https://img.shields.io/badge/AI-LLM%20Integration%20%7C%20Prompt%20Engineering-purple)
-![Focus](https://img.shields.io/badge/Focus-AI%20Products-orange)
+![Role](https://img.shields.io/badge/Role-Web%20Application%20Engineer-blue)
+![Focus](https://img.shields.io/badge/Focus-Web%20Applications-orange)
+![AI](https://img.shields.io/badge/AI-LLM%20Integration-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Service%20Oriented-success)
 
 </p>
 
@@ -25,14 +24,14 @@ AI-Driven Full Stack Engineer building intelligent web applications powered by L
 </p>
 
 <p align="center">
-Full-stack AI system that analyzes resumes against job descriptions and generates ATS-friendly, role-aligned CVs using structured LLM reasoning and explainable enhancements.
+AI-powered web application that analyzes resumes against job descriptions and generates role-aligned, ATS-friendly CVs using structured LLM reasoning workflows with explainable enhancements.
 </p>
 
 <p align="center">
 
 ![Stack](https://img.shields.io/badge/Stack-FastAPI%20%7C%20Streamlit%20%7C%20LLM-informational)
 [![Provider](https://img.shields.io/badge/LLM-OpenRouter-purple)](https://openrouter.ai)
-![Architecture](https://img.shields.io/badge/Architecture-Orchestrated%20AI%20Workflow-success)
+![Workflow](https://img.shields.io/badge/AI-Workflow%20Orchestration-success)
 
 </p>
 
@@ -45,12 +44,23 @@ Full-stack AI system that analyzes resumes against job descriptions and generate
 ![NextJS](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![REST](https://img.shields.io/badge/REST%20APIs-grey)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 
 </p>
+
+---
+
+## 🧠 Engineering Focus
+
+- Designing scalable web applications
+- API architecture and service-oriented systems
+- AI integration inside real production-style workflows
+- Structured LLM outputs and prompt engineering
+- Building user-facing AI features with clear UX
 
 ---
 
@@ -62,8 +72,10 @@ Full-stack AI system that analyzes resumes against job descriptions and generate
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge">
 </a>
 
-<a href="mailto:ali85.tech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge">
-</a>
+</p>
 
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AliTechM&color=blue">
 </p>
